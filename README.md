@@ -61,14 +61,6 @@ Analyzed how Bitcoin market sentiment (**Fear/Greed Index**) affects trader beha
 Performed exploratory data analysis on IPL datasets using Python and visualization libraries.
 
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🌍 Connect With Me
 
 📧 Email: datkhile2004@gmail.com
